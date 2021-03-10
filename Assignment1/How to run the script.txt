@@ -1,0 +1,3 @@
+Include the smear.py file at the same level as the cam folders. To run the program:
+python smear.py cam_x
+where x is the folder to the script on. It will oupt a cam_x_results folder.
